@@ -91,5 +91,7 @@ print(f"Prediction: {'Spam' if prediction[0]==1 else 'Ham'}")
 
 ## Output:
 
+<img width="574" height="323" alt="ML EXP - 12" src="https://github.com/user-attachments/assets/ee363c30-cee4-482b-8410-95cc85421d24" />
+
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
